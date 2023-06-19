@@ -1,0 +1,5 @@
+﻿  ruchpoziomu.cpp
+C:\Users\User\Desktop\ruchpoziomu\ruchpoziomu.cpp(207,3): warning C4838: konwersja z „int” do „BYTE” wymaga konwersji zawężającej
+C:\Users\User\Desktop\ruchpoziomu\ruchpoziomu.cpp(455,17): warning C4244: "=": konwersja z "double" do "GLfloat", możliwa utrata danych
+C:\Users\User\Desktop\ruchpoziomu\ruchpoziomu.cpp(456,16): warning C4244: "=": konwersja z "double" do "GLfloat", możliwa utrata danych
+  ruchpoziomu.vcxproj -> C:\Users\User\Desktop\ruchpoziomu\Debug\ruchpoziomu.exe

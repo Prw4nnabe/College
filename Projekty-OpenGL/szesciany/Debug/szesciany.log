@@ -1,0 +1,6 @@
+﻿  szesciany.cpp
+C:\Users\User\Desktop\szesciany\szesciany.cpp(161,87): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\User\Desktop\szesciany\szesciany.cpp(161,37): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\User\Desktop\szesciany\szesciany.cpp(163,87): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\User\Desktop\szesciany\szesciany.cpp(163,37): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  szesciany.vcxproj -> C:\Users\User\Desktop\szesciany\Debug\szesciany.exe
